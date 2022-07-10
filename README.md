@@ -42,7 +42,7 @@
   
     + Java
 
-  + Clone repos về local sau đó chuyển sang nhánh master bằng: 
+  + Clone repos về local sau đó chuyển sang nhánh master nếu bạn chưa ở nhánh master bằng: 
  
         git checkout master
   + Sau đó build ứng dụng trong Android Studio và chạy ứng dụng bình thường
