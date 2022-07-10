@@ -35,3 +35,8 @@
 | 3      | 19522154      | Nguyễn Văn Tài         |[nguyentai090301](https://github.com/nguyentai090301)    |19522154@gm.uit.edu.vn   |
 ## ĐỒ ÁN CUỐI KỲ
 - ỨNG DỤNG HƯỚNG DẪN NẤU ĂN
+- Những cập nhật tính năng:
+  + Cập nhật chức năng tìm kiếm (Có thể tìm kiếm theo dạng loại thức ăn như hải sản, rau củ,...).
+  + Cập nhật chức năng done/undone (Đánh dấu là đã nấu hoặc bỏ chọn đã nấu).
+  + Cập nhật chức năng like/unlike (Thêm vào danh sách yêu thích hoặc bỏ khỏi danh sách yêu thích).
+  + Cập nhật chức năng thêm, xóa, sửa món ăn
