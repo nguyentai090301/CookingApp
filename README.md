@@ -46,3 +46,8 @@
  
         git checkout master
   + Sau đó build ứng dụng trong Android Studio và chạy ứng dụng bình thường
+  - Những cập nhật tính năng:
+    + Cập nhật chức năng tìm kiếm (Có thể tìm kiếm theo dạng loại thức ăn như hải sản, rau củ,...).
+    + Cập nhật chức năng done/undone (Đánh dấu là đã nấu hoặc bỏ chọn đã nấu).
+    + Cập nhật chức năng like/unlike (Thêm vào danh sách yêu thích hoặc bỏ khỏi danh sách yêu thích).
+    + Cập nhật chức năng thêm, xóa, sửa món ăn
